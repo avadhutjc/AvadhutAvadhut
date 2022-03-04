@@ -12,10 +12,10 @@ class MainActivity : AppCompatActivity() {
 //comment
 
 
-//after rebase option line no. 12 also included into remote
+//after rebasing option line no. 12 also included in remote
 
 //just confirmation ..again again
 
-//check out branch from main  to origin main
+//check out branch a  from main  to origin main
 
 //branch b created
