@@ -19,3 +19,5 @@ class MainActivity : AppCompatActivity() {
 //check out branch from main  to origin main
 
 //commenting to dev branch
+
+//view model created
