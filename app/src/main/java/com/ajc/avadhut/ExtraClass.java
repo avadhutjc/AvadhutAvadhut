@@ -1,4 +1,10 @@
 package com.ajc.avadhut;
 
-public class ExtraClass {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class ExtraClass extends AppCompatActivity {
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
 }
