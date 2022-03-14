@@ -28,7 +28,8 @@
     <!--creating commit-->
     <EditText
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints" />
 
     <TextClock
         android:layout_width="match_parent"
